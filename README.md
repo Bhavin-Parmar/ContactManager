@@ -21,3 +21,4 @@ To run this application on local machine just clone the master branch on local m
 visual studio 2017 and build the solution. Once the new debugging session is started the restful service 
 can be accessed at http://localhost:49680/api/ContactManager .
 
+Please read the API section in main page of application for more information related to perform CRUD operations.
